@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623887087763",
+    "firebase_url": "https://earnings-tracking-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "earnings-tracking",
+    "storage_bucket": "earnings-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623887087763:android:087837b6fed7f13bf6f566",
+        "android_client_info": {
+          "package_name": "com.example.kazanctakip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623887087763-v2ekrv2rc4udodq6in4u6hmug455d4r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtum0YzUlpJd1erxzIUfoWNkSULtaEIas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623887087763-v2ekrv2rc4udodq6in4u6hmug455d4r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
